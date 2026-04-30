@@ -12,7 +12,7 @@ def create_app():
 
     @app.route('/test')
     def test():
-        return "test 1123456789 newwwwww"
+        return "test 1123456789 newwwwww and happy"
 
     @app.route('/test2')
     def test1():
